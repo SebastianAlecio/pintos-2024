@@ -2,6 +2,7 @@ name: 'Calificación de las fases del proyecto'
 
 on: [ "push", "pull_request" ]
 
+
 jobs:
   threads:
     name: 'Fase: Threads'
